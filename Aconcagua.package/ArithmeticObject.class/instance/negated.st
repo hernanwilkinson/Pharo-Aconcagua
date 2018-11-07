@@ -1,0 +1,4 @@
+arithmetic operations
+negated
+
+	self subclassResponsibility

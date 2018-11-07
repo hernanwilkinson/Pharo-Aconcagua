@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ArithmeticObject",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Evaluation",
+	"type" : "normal"
+}

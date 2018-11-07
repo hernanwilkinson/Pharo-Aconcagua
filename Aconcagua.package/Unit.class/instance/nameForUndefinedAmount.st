@@ -1,0 +1,4 @@
+accessing
+nameForUndefinedAmount
+
+	^self nameForMany

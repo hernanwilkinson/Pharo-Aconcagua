@@ -1,0 +1,4 @@
+accessing
+denominator
+
+	^1

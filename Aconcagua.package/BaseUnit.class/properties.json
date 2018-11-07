@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleUnit",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nameForOne",
+		"nameForMany",
+		"sign"
+	],
+	"name" : "BaseUnit",
+	"type" : "normal"
+}

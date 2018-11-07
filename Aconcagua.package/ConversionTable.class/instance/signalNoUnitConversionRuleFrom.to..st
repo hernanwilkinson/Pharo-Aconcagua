@@ -1,0 +1,4 @@
+exceptions
+signalNoUnitConversionRuleFrom: aSourceUnit to: aTargetUnit
+
+	NoUnitConversionRuleException signalWithSourceUnit: aSourceUnit targetUnit: aTargetUnit

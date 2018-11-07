@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IntervalStrategy",
+	"category" : "Aconcagua-ArithmeticModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestIntervalStrategy",
+	"type" : "normal"
+}

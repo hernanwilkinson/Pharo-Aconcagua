@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graph",
+		"unitConversionRules"
+	],
+	"name" : "ConversionTable",
+	"type" : "normal"
+}

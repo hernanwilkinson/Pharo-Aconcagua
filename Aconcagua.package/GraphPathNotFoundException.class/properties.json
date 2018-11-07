@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-GraphModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"target"
+	],
+	"name" : "GraphPathNotFoundException",
+	"type" : "normal"
+}

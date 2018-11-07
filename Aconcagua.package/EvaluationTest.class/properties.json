@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Aconcagua-MeasureModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"formulaOfTenPesos",
+		"formulaOfTwentyPesos",
+		"messageName",
+		"peso",
+		"dollar"
+	],
+	"name" : "EvaluationTest",
+	"type" : "normal"
+}

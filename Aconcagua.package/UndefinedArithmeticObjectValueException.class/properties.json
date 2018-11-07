@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arithmeticObject"
+	],
+	"name" : "UndefinedArithmeticObjectValueException",
+	"type" : "normal"
+}

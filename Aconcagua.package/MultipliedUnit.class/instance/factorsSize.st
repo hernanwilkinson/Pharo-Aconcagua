@@ -1,0 +1,4 @@
+accessing
+factorsSize
+
+	^factors size

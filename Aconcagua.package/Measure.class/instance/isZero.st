@@ -1,0 +1,4 @@
+testing
+isZero
+
+	^self isNothing

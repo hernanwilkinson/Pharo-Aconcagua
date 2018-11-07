@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Aconcagua-MeasureModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream",
+		"streamStaringInThirdElement"
+	],
+	"name" : "CircularReadStreamTest",
+	"type" : "normal"
+}

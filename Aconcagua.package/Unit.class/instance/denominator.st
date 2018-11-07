@@ -1,0 +1,4 @@
+accessing
+denominator
+
+	^NullUnit new

@@ -1,0 +1,4 @@
+testing
+positive
+
+	^amount positive

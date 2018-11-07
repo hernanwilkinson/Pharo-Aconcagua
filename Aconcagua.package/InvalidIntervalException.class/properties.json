@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to",
+		"by"
+	],
+	"name" : "InvalidIntervalException",
+	"type" : "normal"
+}

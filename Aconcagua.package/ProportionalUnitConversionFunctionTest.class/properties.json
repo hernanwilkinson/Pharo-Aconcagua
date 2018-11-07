@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Aconcagua-MeasureModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"peso",
+		"dollar",
+		"onePeso",
+		"tenDollars"
+	],
+	"name" : "ProportionalUnitConversionFunctionTest",
+	"type" : "normal"
+}

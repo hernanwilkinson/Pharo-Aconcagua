@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-GraphModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"graph"
+	],
+	"name" : "NodeNotFoundException",
+	"type" : "normal"
+}

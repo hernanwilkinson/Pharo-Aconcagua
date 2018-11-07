@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetUnit",
+		"sourceUnit"
+	],
+	"name" : "NoUnitConversionRuleException",
+	"type" : "normal"
+}

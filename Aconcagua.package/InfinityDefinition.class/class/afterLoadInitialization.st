@@ -1,0 +1,4 @@
+initialization
+afterLoadInitialization
+
+	self initialize

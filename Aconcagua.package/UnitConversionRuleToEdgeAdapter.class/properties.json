@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "UnitConversionRuleInterface",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"unitConversionRule"
+	],
+	"name" : "UnitConversionRuleToEdgeAdapter",
+	"type" : "normal"
+}

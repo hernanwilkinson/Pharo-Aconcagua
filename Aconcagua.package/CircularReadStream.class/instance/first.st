@@ -1,0 +1,4 @@
+accessing
+first
+
+	^collection first

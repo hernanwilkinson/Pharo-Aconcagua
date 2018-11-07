@@ -1,0 +1,4 @@
+comparing
+= anObject
+
+	^self == anObject

@@ -1,0 +1,4 @@
+instance creation
+defaultIntervalStrategy
+
+	^ArithmeticObjectIntervalStrategy new

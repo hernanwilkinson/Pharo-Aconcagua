@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-GraphModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"invalidEdge",
+		"edges",
+		"nodes"
+	],
+	"name" : "EdgeEndpointNotIncludedInNodesException",
+	"type" : "normal"
+}

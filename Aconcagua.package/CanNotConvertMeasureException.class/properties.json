@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "InvalidOperationException",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"targetUnit",
+		"sourceMeasure"
+	],
+	"name" : "CanNotConvertMeasureException",
+	"type" : "normal"
+}

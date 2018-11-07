@@ -1,0 +1,4 @@
+testing
+testDivide
+
+	self assertAllTestShouldPassFor: #/

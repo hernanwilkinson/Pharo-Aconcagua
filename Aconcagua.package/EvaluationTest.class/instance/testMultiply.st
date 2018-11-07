@@ -1,0 +1,4 @@
+testing
+testMultiply
+
+	self assertAllTestShouldPassFor: #*

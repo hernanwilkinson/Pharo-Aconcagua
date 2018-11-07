@@ -1,0 +1,5 @@
+test subtract
+testSubtractFractionWithMeasure
+
+	self assert: ((1/3 - self tenMeters) atSameBaseUnitAs: self meter) = self tenMeters negated.
+	self assert: ((1/3 - self tenMeters) atSameBaseUnitAs: NullUnit new) = (1/3).	

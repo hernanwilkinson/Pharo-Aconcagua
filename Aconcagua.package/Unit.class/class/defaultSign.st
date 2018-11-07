@@ -1,0 +1,4 @@
+accessing
+defaultSign
+
+	^'NO SIGN'

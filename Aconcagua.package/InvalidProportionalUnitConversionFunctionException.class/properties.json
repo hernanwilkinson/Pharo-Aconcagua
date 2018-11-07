@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceMeasure",
+		"equivalentMeasure"
+	],
+	"name" : "InvalidProportionalUnitConversionFunctionException",
+	"type" : "normal"
+}

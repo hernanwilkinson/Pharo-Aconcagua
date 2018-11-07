@@ -1,0 +1,4 @@
+accessing
+nothingAmount
+
+	^0

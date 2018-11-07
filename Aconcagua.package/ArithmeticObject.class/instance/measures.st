@@ -1,0 +1,4 @@
+accessing
+measures
+	
+	self subclassResponsibility

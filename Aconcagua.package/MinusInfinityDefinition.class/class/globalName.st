@@ -1,0 +1,4 @@
+naming
+globalName 
+
+	^ #MinusInfinity

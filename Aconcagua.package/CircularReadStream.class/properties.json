@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collection",
+		"position",
+		"unit",
+		"firstIndex",
+		"lastIndex"
+	],
+	"name" : "CircularReadStream",
+	"type" : "normal"
+}

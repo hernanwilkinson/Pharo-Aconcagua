@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "InvalidOperationException",
+	"category" : "Aconcagua-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"operationName",
+		"operand"
+	],
+	"name" : "InvalidUnaryOperationException",
+	"type" : "normal"
+}

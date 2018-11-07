@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Evaluation",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cachedValue",
+		"evaluation"
+	],
+	"name" : "CachedEvaluation",
+	"type" : "normal"
+}

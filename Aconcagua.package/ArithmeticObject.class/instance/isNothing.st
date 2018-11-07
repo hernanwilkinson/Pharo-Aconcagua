@@ -1,0 +1,4 @@
+testing
+isNothing
+
+	self subclassResponsibility

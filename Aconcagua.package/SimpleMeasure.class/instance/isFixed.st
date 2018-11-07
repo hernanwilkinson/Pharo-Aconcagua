@@ -1,0 +1,4 @@
+testing
+isFixed
+
+	^amount isFixed

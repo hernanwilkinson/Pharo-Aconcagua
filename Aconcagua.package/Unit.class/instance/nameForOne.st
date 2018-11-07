@@ -1,0 +1,4 @@
+accessing
+nameForOne
+
+	self subclassResponsibility

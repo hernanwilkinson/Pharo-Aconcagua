@@ -1,0 +1,4 @@
+accessing
+proportionalMeasure 
+
+	^proportionalMeasure

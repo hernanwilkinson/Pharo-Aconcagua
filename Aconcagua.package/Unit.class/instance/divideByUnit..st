@@ -1,0 +1,4 @@
+mathematic operations
+divideByUnit: aNumberOrUnit
+
+	self subclassResponsibility

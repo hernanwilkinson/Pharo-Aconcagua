@@ -1,0 +1,4 @@
+path finding - private
+emptyCollection
+	
+	^#()

@@ -1,0 +1,4 @@
+accessing
+last
+
+	^collection last

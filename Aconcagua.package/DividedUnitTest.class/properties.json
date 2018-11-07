@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Aconcagua-MeasureModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"meter",
+		"second",
+		"meterOverSecond"
+	],
+	"name" : "DividedUnitTest",
+	"type" : "normal"
+}

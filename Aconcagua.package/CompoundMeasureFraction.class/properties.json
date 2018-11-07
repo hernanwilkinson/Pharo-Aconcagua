@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Fraction",
+	"category" : "Aconcagua-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CompoundMeasureFraction",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+testing
+testAdd
+
+	self assertAllTestShouldPassFor: #+

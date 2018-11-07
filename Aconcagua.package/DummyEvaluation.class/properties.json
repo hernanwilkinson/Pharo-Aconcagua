@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Evaluation",
+	"category" : "Aconcagua-MeasureModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"measure"
+	],
+	"name" : "DummyEvaluation",
+	"type" : "normal"
+}

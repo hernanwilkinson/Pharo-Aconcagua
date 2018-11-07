@@ -1,0 +1,4 @@
+testing
+testSubtract
+
+	self assertAllTestShouldPassFor: #-

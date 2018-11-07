@@ -1,0 +1,4 @@
+testing
+convergesToSelf
+
+	self subclassResponsibility

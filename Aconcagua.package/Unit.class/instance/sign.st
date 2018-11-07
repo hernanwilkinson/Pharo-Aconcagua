@@ -1,0 +1,4 @@
+accessing
+sign
+
+	self subclassResponsibility
