@@ -1,4 +1,4 @@
 time units - naming
 minuteName
 
-	^'minuto'
+	^'minute'

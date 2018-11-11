@@ -1,4 +1,4 @@
 temperature units - naming
 celsiusName
 
-	^'gradoCentigrado'
+	^'celsius'
