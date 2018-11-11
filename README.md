@@ -1,2 +1,2 @@
 # Pharo-Aconcagua
-Measurement model 
+See https://github.com/hernanwilkinson/Cuis-Smalltalk-Aconcagua
